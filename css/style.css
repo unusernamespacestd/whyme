@@ -720,6 +720,9 @@ body {
         margin-left: 8px;
 }
 @media (max-width: 320px) {
+    .footer, .feedback, .reviews, .benefits, .rent {
+    padding: 10px 0;
+}
     .reviews__item {
         margin-left: 18px;
     }
